@@ -6,11 +6,11 @@ My approach is simple: I start by understanding a real-world business challenge,
 
 ### My Approach
 
-* ** Strategic Thinking:** I map out a clear plan to tackle important business goals, whether it's understanding customer behavior, finding ways to be more efficient, or predicting future trends.
+* **Strategic Thinking:** I map out a clear plan to tackle important business goals, whether it's understanding customer behavior, finding ways to be more efficient, or predicting future trends.
 
-* ** Powerful Tools:** I use advanced SQL and Python to explore data, build predictive models, and uncover the answers that truly matter.
+* **Powerful Tools:** I use advanced SQL and Python to explore data, build predictive models, and uncover the answers that truly matter.
 
-* ** Trustworthy Results:** I apply proven statistical methods to ensure my findings are solid and reliable, not just based on chance.
+* **Trustworthy Results:** I apply proven statistical methods to ensure my findings are solid and reliable, not just based on chance.
 
 Each project here tells a story—from the initial question to the final solution. I invite you to see how I turn raw data into a powerful tool for success.
 
